@@ -38,3 +38,10 @@ A volunteer lecturer on the basics of HTML and CSS in the local fund to promote 
 ### HTML Academy, 2017
 
 Basic and Advanced HTML and CSS: **[my training project](https://github.com/partizanka/339763-nerds)**
+
+## 7. Education:
+
+* **Basics of Programming** (GeekBrains, 2015)
+* **Software Tester** (School of Successful Testers, 2015)
+* **Basics of HTML and CSS** (Netology, 2016)
+* **Basic and Advanced HTML and CSS** (HTML Academy, 2017)
