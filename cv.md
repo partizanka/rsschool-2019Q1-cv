@@ -45,3 +45,9 @@ Basic and Advanced HTML and CSS: **[my training project](https://github.com/part
 * **Software Tester** (School of Successful Testers, 2015)
 * **Basics of HTML and CSS** (Netology, 2016)
 * **Basic and Advanced HTML and CSS** (HTML Academy, 2017)
+
+## 8. English level: Pre-intermediate (A2)
+
+### From 2014
+
+Periodic individual lessons with an English tutor (learning from scratch).
